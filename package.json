@@ -3,7 +3,8 @@
   "version": "0.0.1",
   "dependencies": {
     "ejs": "",
-    "express": "",
-    "socket.io": ""
+    "express": "4.x",
+    "socket.io": "",
+    "node-sass": ""
   }
 }
